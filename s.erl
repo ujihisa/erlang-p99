@@ -1,4 +1,4 @@
--module(solutions).
+-module(s).
 -export([last/1, main/1]).
 
 last(XS) -> lists:nth(length(XS), XS).
