@@ -45,4 +45,4 @@ main(_) -> io:format("Hello, world!\n").
 
 ## Hello world from file w/ compiling
 
-TODO
+TODO - we will work this part out.
